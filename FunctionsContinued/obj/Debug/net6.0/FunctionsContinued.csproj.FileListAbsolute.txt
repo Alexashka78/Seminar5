@@ -1,0 +1,15 @@
+C:\Users\Krasi\Desktop\SeminarC#5\FunctionsContinued\bin\Debug\net6.0\FunctionsContinued.exe
+C:\Users\Krasi\Desktop\SeminarC#5\FunctionsContinued\bin\Debug\net6.0\FunctionsContinued.deps.json
+C:\Users\Krasi\Desktop\SeminarC#5\FunctionsContinued\bin\Debug\net6.0\FunctionsContinued.runtimeconfig.json
+C:\Users\Krasi\Desktop\SeminarC#5\FunctionsContinued\bin\Debug\net6.0\FunctionsContinued.dll
+C:\Users\Krasi\Desktop\SeminarC#5\FunctionsContinued\bin\Debug\net6.0\FunctionsContinued.pdb
+C:\Users\Krasi\Desktop\SeminarC#5\FunctionsContinued\obj\Debug\net6.0\FunctionsContinued.csproj.AssemblyReference.cache
+C:\Users\Krasi\Desktop\SeminarC#5\FunctionsContinued\obj\Debug\net6.0\FunctionsContinued.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krasi\Desktop\SeminarC#5\FunctionsContinued\obj\Debug\net6.0\FunctionsContinued.AssemblyInfoInputs.cache
+C:\Users\Krasi\Desktop\SeminarC#5\FunctionsContinued\obj\Debug\net6.0\FunctionsContinued.AssemblyInfo.cs
+C:\Users\Krasi\Desktop\SeminarC#5\FunctionsContinued\obj\Debug\net6.0\FunctionsContinued.csproj.CoreCompileInputs.cache
+C:\Users\Krasi\Desktop\SeminarC#5\FunctionsContinued\obj\Debug\net6.0\FunctionsContinued.dll
+C:\Users\Krasi\Desktop\SeminarC#5\FunctionsContinued\obj\Debug\net6.0\refint\FunctionsContinued.dll
+C:\Users\Krasi\Desktop\SeminarC#5\FunctionsContinued\obj\Debug\net6.0\FunctionsContinued.pdb
+C:\Users\Krasi\Desktop\SeminarC#5\FunctionsContinued\obj\Debug\net6.0\FunctionsContinued.genruntimeconfig.cache
+C:\Users\Krasi\Desktop\SeminarC#5\FunctionsContinued\obj\Debug\net6.0\ref\FunctionsContinued.dll
